@@ -1,1 +1,1 @@
-# Data-Structure-Course-Practice---Data-Science-VI-A-2026
+# Data-Structure-DSVI/A
